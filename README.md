@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hola, soy Cristian 👋
 
-<!--
-**CDM1994/CDM1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Doctorando y docente en la **Universidad de Huelva**. Investigo en **electrónica de potencia**,
+en concreto en **convertidores de potencia resonantes**.
 
-Here are some ideas to get you started:
+## 🎓 Formación
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Grado en Ingeniería Electrónica Industrial
+2. Máster en Ingeniería Industrial
+3. Doctorado en Electrónica de Potencia (en curso)
+
+## 🔧 Intereses
+
+- Convertidores de potencia resonantes y electrónica de potencia
+- Docencia universitaria en ingeniería
+- Python para simulación y análisis de datos
+- Git, GitHub y Classroom 50 aplicados a la enseñanza
+
+## 📫 Enlaces
+
+- [Mi organización docente: organizacioncdm](https://github.com/organizacioncdm)
+- [Universidad de Huelva](https://www.uhu.es/)
+
+> «La educación es el arma más poderosa que puedes usar para cambiar el mundo.» — Nelson Mandela
